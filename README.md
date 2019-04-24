@@ -8,4 +8,5 @@ In this game you’ll play as an applier for the role of Lead Landscape Developp
 Tools used : Unity, Audacity, Bfxr, Bosca Ceoil, PyxelEdit, Aseprite.
 
 Play on your computer or browser : https://vovoda.itch.io/landscape-manager
+
 Available on Google Play store for Android : https://ldjam.com/events/ludum-dare/43/landscape-manager
