@@ -9,4 +9,4 @@ Tools used : Unity, Audacity, Bfxr, Bosca Ceoil, PyxelEdit, Aseprite.
 
 Play on your computer or browser : https://vovoda.itch.io/landscape-manager
 
-Available on Google Play store for Android : https://ldjam.com/events/ludum-dare/43/landscape-manager
+Available on Google Play store for Android : https://play.google.com/store/apps/details?id=com.JacquesErnoult.LandscapeManager
